@@ -14,5 +14,5 @@ spec:
         app: iot
     spec:
       containers:
-        - name: mycontainer
+        - name: iot
           image: wil42/playground:v1
